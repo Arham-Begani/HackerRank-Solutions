@@ -1,0 +1,10 @@
+# python3
+# arithemetic operators python3 solution
+
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    
+print(a+b)
+print(a-b)
+print(a*b)
